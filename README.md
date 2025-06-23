@@ -1,16 +1,86 @@
-## Hi there 👋
+Sure! Here's the updated **`README.md` code** without the **competitive programming section**, ready to paste:
 
-<!--
-**Rish1369/Rish1369** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+````markdown
+# 👋 Hi, I'm Rishabh Kumar
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a **Full Stack Developer**, building web applications and scalable solutions with modern technologies. I love turning ideas into real products that solve real problems.
+
+---
+
+## 💻 Tech Stack
+
+```js
+const techStack = {
+  frontend: ["React", "Next.js", "HTML", "TailwindCSS"],
+  backend: ["Node.js", "Fastify.js", "Express", "Docker"],
+  databases: ["MongoDB", "MySQL"],
+  devOps: ["Docker", "CI/CD (Learning)"],
+  tools: ["Razorpay SDK", "JWT", "Git"]
+};
+````
+
+---
+
+## 🔭 Current Project
+
+* 📘 Building a **Learning Management System** with Razorpay integration
+
+---
+
+## 🏆 GitHub Trophies
+
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Rish1369\&theme=radical\&no-frame=true\&column=4\&margin-w=15)](https://github.com/Rishabh1369)
+
+---
+
+## 📊 GitHub Stats
+
+## 📊 GitHub Stats
+
+![Rishabh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rish1369&show_icons=true&theme=radical&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rish1369&layout=compact&theme=radical)
+
+
+## 📫 Contact Me
+
+* 📧 Email: `rishabhrai5649@gmail.com`
+* 🌐 Portfolio: *Coming Soon*
+* 📄 Resume: *Add Google Drive link if ready*
+
+---
+
+## 💡 Fun Developer Console
+
+```js
+if (!success) {
+  console.log("Retrying...");
+  debug();
+  fixBugs();
+  watchMotivationalVideos();
+} else {
+  console.log("It works! Time to push to GitHub 🚀");
+}
+```
+
+---
+
+## 💬 Quote I Live By
+
+> *"First, solve the problem. Then, write the code."* — John Johnson
+
+---
+
+Thanks for visiting! Feel free to connect and collaborate 🚀
+
+```
+
+---
+
+Let me know if you'd like to:
+- Add your resume link
+- Include social links (LinkedIn, Twitter, etc.)
+- Show latest projects or blog posts from a feed
+```
