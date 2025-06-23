@@ -37,7 +37,6 @@ const techStack = {
 
 ## 📊 GitHub Stats
 
-## 📊 GitHub Stats
 
 ![Rishabh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rish1369&show_icons=true&theme=radical&count_private=true)
 
@@ -47,9 +46,6 @@ const techStack = {
 ## 📫 Contact Me
 
 * 📧 Email: `rishabhrai5649@gmail.com`
-* 🌐 Portfolio: *Coming Soon*
-* 📄 Resume: *Add Google Drive link if ready*
-
 ---
 
 ## 💡 Fun Developer Console
@@ -77,10 +73,3 @@ Thanks for visiting! Feel free to connect and collaborate 🚀
 
 ```
 
----
-
-Let me know if you'd like to:
-- Add your resume link
-- Include social links (LinkedIn, Twitter, etc.)
-- Show latest projects or blog posts from a feed
-```
