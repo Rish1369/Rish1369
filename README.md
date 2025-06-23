@@ -1,6 +1,3 @@
-Sure! Here's the updated **`README.md` code** without the **competitive programming section**, ready to paste:
-
----
 
 ````markdown
 # 👋 Hi, I'm Rishabh Kumar
