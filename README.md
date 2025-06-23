@@ -5,7 +5,8 @@ Sure! Here's the updated **`README.md` code** without the **competitive programm
 ````markdown
 # 👋 Hi, I'm Rishabh Kumar
 
-I'm a **Full Stack Developer**, building web applications and scalable solutions with modern technologies. I love turning ideas into real products that solve real problems.
+I'm a **Full Stack Developer**, building web applications and scalable solutions with modern technologies.
+I love turning ideas into real products that solve real problems.
 
 ---
 
@@ -70,6 +71,3 @@ if (!success) {
 ---
 
 Thanks for visiting! Feel free to connect and collaborate 🚀
-
-```
-
