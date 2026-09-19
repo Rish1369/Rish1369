@@ -21,11 +21,6 @@ const techStack = {
 
 ---
 
-## 🔭 Current Project
-
-* 📘 Building a **Learning Management System** with Razorpay integration
-
----
 
 ## 🏆 GitHub Trophies
 
