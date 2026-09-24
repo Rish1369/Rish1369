@@ -4,7 +4,7 @@
 
 I build web applications and scalable backend services, from UI to database to deployment. I enjoy turning ideas into products that solve real problems, and I'm currently open to **Full Stack / Backend Developer opportunities**.
 
-📍 India &nbsp;|&nbsp; 📧 [rishabhrai5649@gmail.com](mailto:rishabhrai5649@gmail.com) &nbsp;|&nbsp; 💼 [LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN-ID) &nbsp;|&nbsp; 🌐 [Portfolio](https://YOUR-PORTFOLIO-URL)
+📍 India &nbsp;|&nbsp; 📧 [rishabhrai5649@gmail.com](mailto:rishabhrai5649@gmail.com) &nbsp;|&nbsp; 💼 [LinkedIn](https://www.linkedin.com/in/rishabh-kumar-710828202/) &nbsp;|&nbsp; 
 
 ---
 
